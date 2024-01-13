@@ -5,7 +5,7 @@
 [
     {
         "model": "gpt-4",
-        "api_key": "<your OpenAI API key here>"
+        "api_key": "<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>"
     },
     {
         "model": "<your Azure OpenAI deployment name>",
